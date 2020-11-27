@@ -5,7 +5,7 @@ Professor: [Atilio Gomes](https://atilio-luiz.github.io/).
 ![UFC ao fundo, à direita um sonhador](Outros/DiegoUFC.jpg)
 
 # Relatórios
-## [Tópico 01 - (Re)introdução ao C++](https://github.com/DiFeitoza/UFC_ED_CPP)
+## [Tópico 01 - (Re)introdução ao C++](https://github.com/DiFeitoza/UFC_ED_CPP/tree/master/00_topico_1)
 **Resumo e Observações**: foram propostas 4 atividades introdutórias em C++ a fim de nos situar novamente com a linguagem, antes de prosseguirmos com a disciplina.
 
 - **Com quem e como você fez**:
