@@ -6,13 +6,13 @@ Professor: [Atilio Gomes](https://atilio-luiz.github.io/).
 
 # Relatórios
 ## [Tópico 01 - (Re)introdução ao C++](https://github.com/DiFeitoza/UFC_ED_CPP)
-**Resumo e Observações**: foram propostas 4 atividades intrudutórias em C++ a fim de nos situarmos novamente com a linguágem antes de prosseguirmos com a disciplina de ED.
+**Resumo e Observações**: foram propostas 4 atividades introdutórias em C++ a fim de nos situar novamente com a linguagem, antes de prosseguirmos com a disciplina.
 
 - **Com quem e como você fez**:
   - Todas as atividades foram feitas individualmente.
 - **O que aprendeu e sabe fazer**:
-  - Gostei de utilizar ternários
+  - Gostei de utilizar ternários.
 - **O que tem dificuldade ainda**:
-  - Preciso revisar como trabalhar matrizes utilizando vector ou ponteiros. Nas próximas atividades farei isso. Aqui não foi necessário.
+  - Preciso revisar como trabalhar com matrizes utilizando vector ou ponteiros.
 - **Quanto tempo levou pra fazer a atividade**:
-  - Entre 3 e 4 horas. Enquando preparava e formatava um notebook para uma colega de trabalho.
+  - Entre 3 e 4 horas com pausas para outras atividades.
